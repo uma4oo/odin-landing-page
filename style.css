@@ -52,9 +52,9 @@ header{
     padding: 5px 10px;
     text-align: center;
     border-radius: 6px;
-    border: none;
     color: white;
     background-color: #3288eb;
+    border-color: #3288eb;
 }
 /*box 2*/
 .box2{
@@ -97,6 +97,37 @@ span{
     font-weight: bold;
     text-align: right;
 }
-p{
-    
+/*box4*/
+.box4{
+    min-height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.paragraph{
+    box-sizing: border-box;
+    width: 60%;
+    height: 100px;
+    background-color: #3288eb;
+    border-radius: 4px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 200px;
+}
+.paragraph p{
+    font-size: 12px;
+    margin: 0;
+}
+h5{
+    margin: 0;
+}
+.paragraph .SignUp{
+    border: 1px solid white;
+}
+footer{
+    min-height: 50px;
+    text-align: center;
+    line-height: 50px;
 }
