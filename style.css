@@ -76,7 +76,27 @@ header{
     border-radius: 6px;
     border-color: #3288eb;
 }
-
+/*box3*/
+.box3{
+    background-color: rgb(219, 214, 214);
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#quote{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: right;
+    flex-wrap: wrap;
+    max-width: 500px;
+}
+span{
+    font-weight: bold;
+    text-align: right;
+}
 p{
     
 }
