@@ -2,6 +2,10 @@
 
 A simple responsive landing page built for the Odin Project. The page presents a yoga studio experience with a hero section, feature cards, inspirational quote, and call-to-action.
 
+Repository: https://github.com/uma4oo/odin-landing-page.git
+
+Live demo: https://uma4oo.github.io/odin-landing-page/
+
 ## Project structure
 
 - `index.html` — main HTML markup for the landing page
